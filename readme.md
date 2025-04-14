@@ -7,6 +7,13 @@
 
 ---
 
+### 🧰 My Toolbox
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![LLMs](https://img.shields.io/badge/LLMs-4B8BBE?style=flat&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat&logo=google&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-0078D4?style=flat&logo=google&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
+
+
+---
+
 ### 👨‍💻 About Me
 
 - 👨‍💻 GenAI & LLM Research Scholar with a strong focus on multilingual NLP.
@@ -56,12 +63,6 @@
 - 📄 **ICON 2023**: [Study of **transformer & transfer learning** MT models for English-Manipuri](https://aclanthology.org/2023.icon-1.81/)
 - 📄 **WMT 2023**: [**Low-Resource Neural Machine Translation** Systems for English-Manipuri](https://aclanthology.org/2023.wmt-1.92/)
 
-
-
-
-### 🧰 My Toolbox
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![LLMs](https://img.shields.io/badge/LLMs-4B8BBE?style=flat&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat&logo=google&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-0078D4?style=flat&logo=google&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
 
 ---
 
