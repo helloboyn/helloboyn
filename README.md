@@ -55,5 +55,7 @@ Here are a few highlights from my journey:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helloboyn&theme=radical" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=helloboyn&label=Profile+Views&color=0e75b6&style=flat" alt="helloboyn" />
 </p>
