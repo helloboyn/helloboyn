@@ -74,31 +74,42 @@
 - 📄 **WMT 2023**: **Low-Resource Neural Machine Translation** Systems for English-Manipuri
 
 ---
+### 🧰 My Toolbox
 
-### 📊 GitHub Stats
+#### 🛠️ Core Languages & Tools  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helloboyn&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloboyn&layout=compact&theme=tokyonight" width="47%" />
-</p>
+#### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
----
+#### 🧠 AI, ML & Research  
+![LLMs](https://img.shields.io/badge/LLMs-4B8BBE?style=flat&logo=openai&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat&logo=google&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0696D7?style=flat&logo=scikitlearn&logoColor=white)  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-800080?style=flat&logo=pytorch&logoColor=white)  
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8A2BE2?style=flat&logo=opencv&logoColor=white)  
+![Object Detection](https://img.shields.io/badge/Object%20Detection-DB4437?style=flat&logo=tensorflow&logoColor=white)  
+![Video Analytics](https://img.shields.io/badge/Video%20Analytics-FF5722?style=flat&logo=youtube&logoColor=white)
 
-### 🐍 GitHub Contribution Snake
+#### 🏢 Companies & Institutions  
+![IIT Patna](https://img.shields.io/badge/IIT%20Patna-000000?style=flat&logo=academia&logoColor=white)  
+![NIT Silchar](https://img.shields.io/badge/NIT%20Silchar-003262?style=flat&logo=gradle&logoColor=white)  
+![Samsung SDS](https://img.shields.io/badge/Samsung%20SDS-1428A0?style=flat&logo=samsung&logoColor=white)  
+![TechVantage](https://img.shields.io/badge/TechVantage-4CAF50?style=flat&logo=analytics&logoColor=white)  
+![Addble](https://img.shields.io/badge/Addble%20Solutions-FF9800?style=flat&logo=react&logoColor=white)  
+![Cavisson](https://img.shields.io/badge/Cavisson%20Systems-E91E63?style=flat&logo=html5&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/helloboyn/helloboyn/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 🔗 Connect With Me
-
-- 📫 **Email**: boynfrancis@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/boynfrancis](https://www.linkedin.com/in/boynfrancis/)  
-- 🌐 **Portfolio**: Coming soon...
-
----
-
-> 🧭 “9863 Days — Everything Counts.”  
-> A journey of faith, code, learning, and impact.
