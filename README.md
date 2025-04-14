@@ -2,7 +2,7 @@
 <h3 align="center">A passionate coder & aspiring researcher from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F72C95&center=true&vCenter=true&width=435&lines=Machine+Learning+%7C+Python+%7C+C%2B%2B;Data+Structures+%26+Algorithms;AI+Researcher+in+NLP;Open+to+Collaborations+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F72C95&center=true&vCenter=true&width=435&lines=AI+Researcher+in+NLP;Open+to+Collaborations+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 ---
