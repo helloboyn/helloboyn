@@ -23,7 +23,7 @@
 ### 🧰 My Toolbox
 
 
-<p align="center">
+
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -44,7 +44,7 @@
   ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8A2BE2?style=flat&logo=opencv&logoColor=white)
   ![Object Detection](https://img.shields.io/badge/Object%20Detection-DB4437?style=flat&logo=tensorflow&logoColor=white)
   ![Video Analytics](https://img.shields.io/badge/Video%20Analytics-FF5722?style=flat&logo=youtube&logoColor=white)
-</p>
+
 
 
 
