@@ -14,16 +14,14 @@
 - 🔬 Former Junior Research Assistant at NIT Silchar, contributing to low-resource language MT.
 - 🌐 Passionate about bridging linguistic gaps using AI & Machine Translation.
 - 💡 Experienced in research, software development, and collaborative technical projects.
-- 🏫 CSE Grad & Master from **National Institute of Technology, Manipur**  
-- 💼 Ex-Intern @ Samsung SDS | Techvantage | Cavisson | Addble  
-- ✍️ [LinkedIn](https://www.linkedin.com/in/boynfrancis/) | 📫 Email: [here](mailto:boynfrancis@gmail.com)
+- 💼 Ex-Intern @ Samsung SDS | Techvantage | Cavisson | Addble 
 
 ---
 
 
 ### 🎓 Education
 
-- 🧠 **PhD in Computer Science and Engineering**, *NIT Silchar* (2023–2025)  
+- 🧠 **PhD in Computer Science and Engineering**, *NIT Silchar* (2023–Present)  
 - 💡 **M.Tech in Computer Science and Engineering**, *NIT Manipur* 
 - 💻 **B.Tech in Computer Science and Engineering**, *NIT Manipur*
 
