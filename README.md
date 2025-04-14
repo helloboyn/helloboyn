@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Boyn Francis</h1>
-<h3 align="center">A passionate coder & aspiring researcher from India 🇮🇳</h3>
+<h3 align="center">A passionate coder & aspiring researcher from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F72C95&center=true&vCenter=true&width=435&lines=Machine+Learning+%7C+Python+%7C+C%2B%2B;Data+Structures+%26+Algorithms;AI+Researcher+in+NLP;Open+to+Collaborations+%F0%9F%91%8B" alt="Typing SVG" />
@@ -10,10 +10,10 @@
 ### 👨‍💻 About Me
 
 - 🧠 Researcher in NLP, working on **Multilingual Machine Translation**  
-- 🏫 CSE Grad from **National Institute of Technology, Manipur**  
+- 🏫 CSE Grad & Master from **National Institute of Technology, Manipur**  
 - 💼 Ex-Intern @ Samsung SDS | Techvantage | Cavisson | Addble  
 - 🔭 Currently working on: `GenAI`, `Data Analysis`, `DSA Challenges`
-- ✍️ [LinkedIn](https://www.linkedin.com/in/boynfrancis/) | 📫 Email: [here](mailto:helloboyn@gmail.com)
+- ✍️ [LinkedIn](https://www.linkedin.com/in/boynfrancis/) | 📫 Email: [here](mailto:boynfrancis@gmail.com)
 
 ---
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=helloboyn&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloboyn&layout=compact&theme=radical" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloboyn&layout=compact&theme=radical" width="450" />
 </p>
 
 ---
@@ -58,12 +58,6 @@ Here are a few highlights from my journey:
 - [📚 DSA-Workout](https://github.com/helloboyn/DSA-Workout) – Mastering DSA month by month  
 - [🌍 Google-Images-Crown](https://github.com/helloboyn/Google-Images-Crown) – Chrome dataset crown project
 
----
-
-### ⚡ Fun Fact
-
-> “9863 Days — Everything Counts”  
-> A journey of consistency, curiosity, and creation.
 
 ---
 
