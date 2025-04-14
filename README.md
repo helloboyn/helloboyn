@@ -54,9 +54,9 @@
 
 ### 📂 Publications
 
-- 📄 **WMT 2024**: [System Description for the **MultiIndic22MT** Shared Task on Manipuri]
-- 📄 **ICON 2023**: [Study of **transformer & transfer learning** MT models for English-Manipuri  
-- 📄 **WMT 2023**: [**Low-Resource Neural Machine Translation** Systems for English-Manipuri
+- 📄 **WMT 2024**: [System Description for the **MultiIndic22MT** Shared Task on Manipuri](https://aclanthology.org/2024.wmt-1.73/)
+- 📄 **ICON 2023**: [Study of **transformer & transfer learning** MT models for English-Manipuri](https://aclanthology.org/2023.icon-1.81/)
+- 📄 **WMT 2023**: [**Low-Resource Neural Machine Translation** Systems for English-Manipuri](https://aclanthology.org/2023.wmt-1.92/)
 
 
 
