@@ -24,8 +24,8 @@
 ### 🎓 Education
 
 - 🧠 **PhD in Computer Science and Engineering**, *NIT Silchar* (2023–2025)  
-- 💡 **M.Tech in Computer Science and Engineering**, *NIT Manipur* – *First Class (78.9%)*  
-- 💻 **B.Tech in Computer Science and Engineering**, *NIT Manipur* – *First Class (65%)*
+- 💡 **M.Tech in Computer Science and Engineering**, *NIT Manipur* 
+- 💻 **B.Tech in Computer Science and Engineering**, *NIT Manipur*
 
 ---
 
