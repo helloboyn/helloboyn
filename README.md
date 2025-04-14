@@ -27,14 +27,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helloboyn&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloboyn&layout=compact&theme=radical" width="450" />
-</p>
 
 ---
 
