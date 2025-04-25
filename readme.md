@@ -71,13 +71,12 @@
 
 ---
 
-### 🏆 Organizers & Coordinators
+### 👥 Organizers & Coordinators
 
 - EMNLP: Empirical Methods in Natural Language Processing - WMT: Workshop Machine Translation - 2025 Shared Task: Low-Resource Indic Language Translation for INDIC MT, Suzhou, China.
 - AACL: Asian Chapter of the Association for Computational Linguistics - IJCNLP: International Joint Conference on Natural Language Processing - 2025 Shared Task: Shared Tasks on Legal NLP, Mumbai, India.
 ---
 
-# 👥 Organizers & Coordinators
 
 ## ✨ EMNLP: *Empirical Methods in Natural Language Processing*
 - 🛠️ **Workshop**: **WMT** – Workshop on Machine Translation  
@@ -92,7 +91,7 @@
 - 📅 **2025 Shared Task**:  
   ⚖️ *Shared Tasks on Legal NLP*  
 - 📍 **Location**: Mumbai, India 🇮🇳
-"""
+
 
 ### 🏆 Achievements & Goals
 
