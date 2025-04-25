@@ -69,7 +69,12 @@
 - 📄 **ICON 2023**: [Study of **transformer & transfer learning** MT models for English-Manipuri](https://aclanthology.org/2023.icon-1.81/)
 - 📄 **WMT 2023**: [**Low-Resource Neural Machine Translation** Systems for English-Manipuri](https://aclanthology.org/2023.wmt-1.92/)
 
+---
 
+### 🏆 Organizers & Coordinators
+
+- EMNLP: The 2025 Conference on Empirical Methods in Natural Language Processing - WMT: Workshop Machine Translation - 2025 Shared Task: Low-Resource Indic Language Translation for INDIC MT, Suzhou, China.
+- AACL: Asian Chapter of the Association for Computational Linguistics - IJCNLP: International Joint Conference on Natural Language Processing - 2025 Shared Task: Shared Tasks on Legal NLP, Mumbai, India.
 ---
 
 ### 🏆 Achievements & Goals
