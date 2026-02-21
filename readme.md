@@ -67,7 +67,8 @@
 
 - 📄 **JUSTNLP 2026**: [**Findings of the JUST-NLP 2025** Shared Task on English-to-Hindi **Legal Machine Translation**](https://aclanthology.org/2025.justnlp-main.3/)
 - 📄 **MMLoSo 2026**: [**Evaluating **IndicTrans2 and ByT5** for English–Santali Machine Translation Using the Ol Chiki Script](https://aclanthology.org/2025.mmloso-1.9/)
-- 📄 **WMT 2025**: [**Evaluation of LLM** for English to Hindi **Legal Domain** Machine Translation Systems](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.57/)
+- 📄 **WMT 2025**: [**Evaluation of LLM** for English to Hindi **Legal Domain** Machine Translation Systems](https://aclanthology.org/2025.wmt-1.57/)
+- 📄 **WMT 2025**: [**Instruction-Tuned** English to Bhojpuri **Neural Machine Translation Using Contrastive Preference Optimization**](https://aclanthology.org/2025.wmt-1.38/)
 - 📄 **WMT 2024**: [System Description for the **MultiIndic22MT** Shared Task on Manipuri](https://aclanthology.org/2024.wmt-1.73/)
 - 📄 **ICON 2023**: [Study of **transformer & transfer learning** MT models for English-Manipuri](https://aclanthology.org/2023.icon-1.81/)
 - 📄 **WMT 2023**: [**Low-Resource Neural Machine Translation** Systems for English-Manipuri](https://aclanthology.org/2023.wmt-1.92/)
