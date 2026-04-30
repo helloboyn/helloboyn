@@ -13,7 +13,7 @@
 
 - 🎓 Member of the ACL [**Association for Computational Linguistics**](https://aclanthology.org/people/kshetrimayum-boynao-singh/)
 - 👨‍💻 GenAI & LLM Research Scholar with a strong focus on multilingual NLP.
-- 🧠 Currently working as a Senior Research Associate at IIT Patna (National Language Translation Mission) [Bhashini](https://bhashini.gov.in/).
+- 🧠 Currently working as a Senior Research Associate at IIT Patna (National Language Translation Mission) [Bhashini](https://bhashini.gov.in/)
 - 🔬 Former Junior Research Assistant at NIT Silchar, contributing to low-resource language MT.
 - 🌐 Passionate about bridging linguistic gaps using AI & Machine Translation.
 - 💡 Experienced in research, software development, and collaborative technical projects.
