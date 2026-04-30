@@ -40,25 +40,25 @@
 
 ### 💼 Experience
 
-- **Senior Research Associate - Technical** @ *MeitY, Govt of India (IIT Patna)* (Jan 2025 – Present)  
+- **Senior Research Associate - Technical** @ *MeitY, Govt of India* [(IIT Patna)](https://www.iitp.ac.in/) (Jan 2025 – Present)  
   *Data Science on National Language Translation Mission*
 
-- **Junior Research Assistant - Technical** @ *MeitY, Govt of India (NIT Silchar)* (Dec 2022 – Oct 2024)  
+- **Junior Research Assistant - Technical** @ *MeitY, Govt of India* [(NIT Silchar)](https://www.nits.ac.in/) (Dec 2022 – Oct 2024)  
   *National Language Translation Mission | Data Analysis & NLP*
 
-- **Software Developer** @ *AgoByte Technologies* (Oct 2022 – Dec2022)  
+- **Software Developer** @ [*AgoByte Technologies*](https://www.agobyte.com/) (Oct 2022 – Dec2022)  
   *Working as an Application Developer on a Start-Up project*
 
-- **Software Engineering Intern** @ *Samsung SDS (Gurgaon)* (Feb 2022 – June 2022)  
+- **Software Engineering Intern** @ [*Samsung SDS (Gurgaon)*](https://www.samsungsds.com/in/index.html) (Feb 2022 – June 2022)  
   *C++ & Java | DSA, Spring Boot, Full Stack Development*
 
-- **Data Scientist Intern** @ *Techvantage Analytics (Kerala)* (Dec 2021 – Feb 2022)  
+- **Data Scientist Intern** @ [*Techvantage Analytics (Kerala)*](https://techvantage.ai/) (Dec 2021 – Feb 2022)  
   *Image Classification, Detection, ML, DL & AI*
 
-- **Frontend Engineering Trainee** @ *Addble Solution (Imphal)* (June 2020 – Nov 2020)  
+- **Frontend Engineering Trainee** @ [*Addble Solution (Imphal)*](https://addble.com/) (June 2020 – Nov 2020)  
   *Frontend Dev using React, JavaScript & Firebase*
 
-- **Web Applications Intern** @ *Cavisson Systems (Noida)* (June 2019 – July 2019)  
+- **Web Applications Intern** @ [*Cavisson Systems (Noida)*](https://www.cavisson.com/) (June 2019 – July 2019)  
   *Angular, TypeScript, HTML/CSS*
 
 
