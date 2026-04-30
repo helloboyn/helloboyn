@@ -11,8 +11,9 @@
 
 ### 👨‍💻 About Me
 
+- 🎓 Member of the Association for Computational Linguistics (ACL).
 - 👨‍💻 GenAI & LLM Research Scholar with a strong focus on multilingual NLP.
-- 🧠 Currently working as a Senior Research Associate at IIT Patna (National Language Translation Mission).
+- 🧠 Currently working as a Senior Research Associate at IIT Patna (National Language Translation Mission [Bhashini]).
 - 🔬 Former Junior Research Assistant at NIT Silchar, contributing to low-resource language MT.
 - 🌐 Passionate about bridging linguistic gaps using AI & Machine Translation.
 - 💡 Experienced in research, software development, and collaborative technical projects.
