@@ -13,7 +13,7 @@
 
 - 🎓 Member of the ACL [**Association for Computational Linguistics**](https://aclanthology.org/people/kshetrimayum-boynao-singh/)
 - 👨‍💻 GenAI & LLM Research Scholar with a strong focus on multilingual NLP.
-- 🧠 Currently working as a Senior Research Associate at IIT Patna (National Language Translation Mission [Bhashini]).
+- 🧠 Currently working as a Senior Research Associate at IIT Patna (National Language Translation Mission [Bhashini](https://bhashini.gov.in/)).
 - 🔬 Former Junior Research Assistant at NIT Silchar, contributing to low-resource language MT.
 - 🌐 Passionate about bridging linguistic gaps using AI & Machine Translation.
 - 💡 Experienced in research, software development, and collaborative technical projects.
@@ -32,9 +32,9 @@
 
 ### 🎓 Education
 
-- 🧠 **PhD in Computer Science and Engineering**, *NIT Silchar* (2023–Present)  
-- 💡 **M.Tech in Computer Science and Engineering**, *NIT Manipur* 
-- 💻 **B.Tech in Computer Science and Engineering**, *NIT Manipur*
+- 🧠 **PhD in Computer Science and Engineering**, [*NIT Silchar*](https://www.nits.ac.in/) (2023–Present)  
+- 💡 **M.Tech in Computer Science and Engineering**, [*NIT Manipur*](https://nitmanipur.ac.in/) 
+- 💻 **B.Tech in Computer Science and Engineering**, [*NIT Manipur*](https://nitmanipur.ac.in/) 
 
 ---
 
@@ -77,9 +77,9 @@
 
 ### 👥🤝 Organizers & Coordinators
 
-- [**AACL: Asian Chapter of the Association for Computational Linguistics** - *IJCNLP: International Joint Conference on Natural Language Processing - 2025*](https://2025.aaclnet.org/program/workshops/) 🛠️ Shared Task: *Shared Tasks on Legal NLP,* 📍 Mumbai, India.
+- [**AACL: Asian Chapter of the Association for Computational Linguistics** - *IJCNLP: International Joint Conference on Natural Language Processing - 2025 🛠️ Shared Task: *Shared Tasks on Legal NLP,* 📍 Mumbai, India.*](https://2025.aaclnet.org/program/workshops/)
 
-- **EMNLP: Empirical Methods in Natural Language Processing** - *WMT: Workshop Machine Translation - 2025* 🛠️ Shared Task: *Low-Resource Indic Language Translation for INDIC MT,* 📍 Suzhou, China.
+- [**EMNLP: Empirical Methods in Natural Language Processing** - *WMT: Workshop Machine Translation - 2025* 🛠️ Shared Task: *Low-Resource Indic Language Translation for INDIC MT,* 📍 Suzhou, China.](https://www2.statmt.org/wmt25/indic-mt-task.html)
 
 ---
 ### 👥🤝 [Reviewer](https://www.webofscience.com/wos/author/record/PLD-0330-2026)
