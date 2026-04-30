@@ -82,7 +82,7 @@
 - **EMNLP: Empirical Methods in Natural Language Processing** - *WMT: Workshop Machine Translation - 2025* 🛠️ Shared Task: *Low-Resource Indic Language Translation for INDIC MT,* 📍 Suzhou, China.
 
 ---
-### 👥🤝 Reviewer
+### 👥🤝 [Reviewer](https://www.webofscience.com/wos/author/record/PLD-0330-2026)
 
 - **Journal for Control, Measurement, Electronics, Computing and Communications, (Taylor & Francis)** 
 
