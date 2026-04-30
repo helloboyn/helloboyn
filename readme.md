@@ -40,10 +40,10 @@
 
 ### 💼 Experience
 
-- **Senior Research Associate - Technical** @ *MeitY, Govt of India* [(IIT Patna)](https://www.iitp.ac.in/) (Jan 2025 – Present)  
+- **Senior Research Associate - Technical** @ *MeitY, Govt of India* [IIT Patna](https://www.iitp.ac.in/) (Jan 2025 – Present)  
   *Data Science on National Language Translation Mission*
 
-- **Junior Research Assistant - Technical** @ *MeitY, Govt of India* [(NIT Silchar)](https://www.nits.ac.in/) (Dec 2022 – Oct 2024)  
+- **Junior Research Assistant - Technical** @ *MeitY, Govt of India* [NIT Silchar](https://www.nits.ac.in/) (Dec 2022 – Oct 2024)  
   *National Language Translation Mission | Data Analysis & NLP*
 
 - **Software Developer** @ [*AgoByte Technologies*](https://www.agobyte.com/) (Oct 2022 – Dec2022)  
