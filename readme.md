@@ -77,7 +77,7 @@
 
 ### 👥🤝 Organizers & Coordinators
 
-- **AACL: Asian Chapter of the Association for Computational Linguistics** - *IJCNLP: International Joint Conference on Natural Language Processing - 2025* 🛠️ Shared Task: *Shared Tasks on Legal NLP,* 📍 Mumbai, India.
+- [**AACL: Asian Chapter of the Association for Computational Linguistics** - *IJCNLP: International Joint Conference on Natural Language Processing - 2025*](https://2025.aaclnet.org/program/workshops/) 🛠️ Shared Task: *Shared Tasks on Legal NLP,* 📍 Mumbai, India.
 
 - **EMNLP: Empirical Methods in Natural Language Processing** - *WMT: Workshop Machine Translation - 2025* 🛠️ Shared Task: *Low-Resource Indic Language Translation for INDIC MT,* 📍 Suzhou, China.
 
