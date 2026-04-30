@@ -97,6 +97,7 @@
 - 🧪 Publishing research in LLM & Low-resource NLP  
 - 🔭 Learning more about Data Science & Backend Engineering  
 - 🏆 Coding streak: **365-Day Leetcode Challenge in progress**
+- 🥋 National-level Taekwondo Player WTF (Black Belt), Athlete under [SAI](https://sportsauthorityofindia.nic.in/)
 
 
 ---
