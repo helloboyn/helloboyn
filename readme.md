@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Kshetrimayum Boynao Singh</h1>
+.<h1 align="center">Hey 👋, I'm Kshetrimayum Boynao Singh</h1>
 <h3 align="center">A Researcher | AI & NLP Enthusiast | Developer from India</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Member of the ACL [**Association for Computational Linguistics**](https://aclanthology.org/people/kshetrimayum-boynao-singh/)
+- 🎓 Member of the ACL [**Association for Computational Linguistics**](https://aclanthology.org/people/kshetrimayum-boynao-singh/) and EAMT [**European Association for Machine Translation**](https://eamt.org/)
 - 👨‍💻 GenAI & LLM [**Research Scholar**](https://scholar.google.com/citations?user=QsaScZ8AAAAJ) with a strong focus on multilingual NLP.
 - 🧠 Currently working as a Senior Research Associate at IIT Patna (National Language Translation Mission) [Bhashini](https://bhashini.gov.in/)
 - 🔬 Former Junior Research Assistant at NIT Silchar, contributing to low-resource language MT.
@@ -76,6 +76,8 @@
 ---
 
 ### 👥🤝 Organizers & Coordinators
+
+- [**EMNLP: Empirical Methods in Natural Language Processing** - *WMT: Workshop Machine Translation - 2026* 🛠️ Shared Task: *Low-Resource Indic Language Translation for INDIC MT,* 📍 Budapest, Hungary.](https://www2.statmt.org/wmt26/indic-mt-task.html)
 
 - [**AACL: Asian Chapter of the Association for Computational Linguistics** - *IJCNLP: International Joint Conference on Natural Language Processing - 2025 🛠️ Shared Task: *Shared Tasks on Legal NLP,* 📍 Mumbai, India.*](https://2025.aaclnet.org/program/workshops/)
 
