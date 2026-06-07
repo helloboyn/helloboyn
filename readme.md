@@ -66,8 +66,15 @@
 
 ### 📂 [Publications](https://aclanthology.org/people/kshetrimayum-boynao-singh/)
 
-- 📄 **EAMT 2026**: [**Reasoning as Supportive Context for Machine Translation: A Case Study on Hindi to Bengali Language Pair**](https://doi.org/10.13140/RG.2.2.23116.37760)
-- 📄 **JUSTNLP 2025**: [**Findings of the JUST-NLP 2025** Shared Task on English-to-Hindi **Legal Machine Translation**](https://aclanthology.org/2025.justnlp-main.3/)
+- 📄 **EAMT 2026**: [**Reasoning as Supportive Context for Machine Translation:** A Case Study on Hindi to Bengali Language Pair](https://doi.org/10.13140/RG.2.2.23116.37760)
+- 📄 **EAMT 2026**: [Towards **Visually-Guided Movie Subtitle Translation** for **Indic Languages**](https://doi.org/10.48550/arXiv.2605.11993)
+- 📄 **WAT 2025**: [Does Vision Still Help? **Multimodal Translation** with CLIP-Based Image Selection](https://aclanthology.org/2025.wat-1.12/)
+- 📄 **IEEE 2025**: [Quantifying the Impact of Data Scale and **Quality on Neural Machine Translation for Low-Resource Language Pair**](https://doi.org/10.1109/OCIT66168.2025.11400206)
+- 📄 **JUSTNLP 2025**: [Findings of the JUST-NLP 2025 Shared Task on English-to-Hindi **Legal Machine Translation**](https://aclanthology.org/2025.justnlp-main.3/)
+- 📄 **JUSTNLP 2025**: [Findings of the JUST-NLP 2025 Shared Task on **Summarization of Indian Court Judgments**](https://aclanthology.org/2025.justnlp-main.2/)
+- 📄 **RegICON**: [Byte-Level Neural Machine Translation for Manipuri and Tangkhul: Advancing Low-Resource Language Translation](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176739469.90006038/v1)
+- 📄 **RegICON**: [A Bidirectional Neural Machine Transliteration System for Manipuri Bengali and Latin Scripts](https://doi.org/10.36227/techrxiv.176739468.82264211/v1)
+- 📄 **RegICON**: [Leveraging High-Fidelity LLMs for **Synthetic Data Generation**: A Scalable Pivot Strategy](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176774200.01023088/v1)
 - 📄 **MMLoSo 2025**: [**Evaluating IndicTrans2 and ByT5** for English–Santali Machine Translation Using the Ol Chiki Script](https://aclanthology.org/2025.mmloso-1.9/)
 - 📄 **WMT 2025**: [**Evaluation of LLM** for English to Hindi **Legal Domain** Machine Translation Systems](https://aclanthology.org/2025.wmt-1.57/)
 - 📄 **WMT 2025**: [**Instruction-Tuned** English to Bhojpuri **Neural Machine Translation Using Contrastive Preference Optimization**](https://aclanthology.org/2025.wmt-1.38/)
