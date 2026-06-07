@@ -66,8 +66,9 @@
 
 ### 📂 [Publications](https://aclanthology.org/people/kshetrimayum-boynao-singh/)
 
-- 📄 **JUSTNLP 2026**: [**Findings of the JUST-NLP 2025** Shared Task on English-to-Hindi **Legal Machine Translation**](https://aclanthology.org/2025.justnlp-main.3/)
-- 📄 **MMLoSo 2026**: [**Evaluating IndicTrans2 and ByT5** for English–Santali Machine Translation Using the Ol Chiki Script](https://aclanthology.org/2025.mmloso-1.9/)
+- 📄 **EAMT 2026**: [**Reasoning as Supportive Context for Machine Translation: A Case Study on Hindi to Bengali Language Pair**](https://doi.org/10.13140/RG.2.2.23116.37760)
+- 📄 **JUSTNLP 2025**: [**Findings of the JUST-NLP 2025** Shared Task on English-to-Hindi **Legal Machine Translation**](https://aclanthology.org/2025.justnlp-main.3/)
+- 📄 **MMLoSo 2025**: [**Evaluating IndicTrans2 and ByT5** for English–Santali Machine Translation Using the Ol Chiki Script](https://aclanthology.org/2025.mmloso-1.9/)
 - 📄 **WMT 2025**: [**Evaluation of LLM** for English to Hindi **Legal Domain** Machine Translation Systems](https://aclanthology.org/2025.wmt-1.57/)
 - 📄 **WMT 2025**: [**Instruction-Tuned** English to Bhojpuri **Neural Machine Translation Using Contrastive Preference Optimization**](https://aclanthology.org/2025.wmt-1.38/)
 - 📄 **ICON 2023**: [Study of **transformer & transfer learning** MT models for English-Manipuri](https://aclanthology.org/2023.icon-1.81/)
@@ -90,7 +91,9 @@
 
 - **Journal of Experimental & Theoretical Artificial Intelligence (Taylor & Francis)**
 
-- **ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)** 
+- **ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)**
+
+- **Sādhanā: Academy Proceedings in Engineering Sciences**
 ---
 
 ### 🏆 Achievements & Goals
